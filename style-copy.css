@@ -2413,7 +2413,7 @@ body {
         height: 50px;
         flex-shrink: 0;
 
-        background-color: rgba(68, 64, 64, 0.4);
+        background-color: rgba(68, 64, 64, 00.1);
         backdrop-filter: blur(10px);
         opacity: 1px;
         border: none;
@@ -3167,6 +3167,7 @@ body {
     }
 
 }
+
 
 
 
