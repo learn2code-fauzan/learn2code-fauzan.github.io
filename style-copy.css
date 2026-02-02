@@ -136,18 +136,14 @@ main {
 #intro1 {
     color: #ffffff;
     transition: 0.5s ease;
-    width: 32vw;
-
-
+    width: 45vw;
 
 }
 
 #intro2 {
     color: #277af7;
     transition: 0.5s ease;
-    width: 33vw;
-
-
+    width: 46vw;
 
 }
 
@@ -3167,6 +3163,7 @@ body {
     }
 
 }
+
 
 
 
